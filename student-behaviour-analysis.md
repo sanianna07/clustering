@@ -28,4 +28,4 @@ Next, we'll fit the k-means model and visualize the clusters to understand the b
 
 Exploratory data analysis revealed insights into student behavior, highlighting variations in participation and engagement. K-means clustering further grouped students based on their behavior, allowing for more targeted interventions or analysis. Further analysis could involve examining the characteristics of each cluster and their relationship with academic performance or parental involvement.
 
-This concludes the exploratory data analysis and k-means clustering analysis of the student behavior dataset.
+This concludes the exploratory data analysis and k-means clustering analysis of the student behavior dataset..
